@@ -1,18 +1,15 @@
-## This can be your internal website page / project page
+## Global CO2 Emmissions:Trends & Insights 
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** The dashboard provides a comprehensive overview of global CO2 emissions, highlighting key trends and regional disparities.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Key observations: 
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+1. China and United States are the biggest CO emitters. Their combined emissions account for significant portion of global total.
+2. CO2 emmissions per capita vary widely.  While some countirs have high emissions due to theire large populations, others have much higher per capita emissions, indicating greater energy consumption and industrial activity per person.
+3. Global CO2 emissions have inscreased over time. This trend is driven by population growth, economic development and increased energy consumption.
+4. There are some disparities in CO2 emissions. Developed countries generally have higher per capita emmissions that developing countries. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Highlights:
 
 ```javascript
 if (isAwesome){
