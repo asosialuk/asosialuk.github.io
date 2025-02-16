@@ -33,6 +33,19 @@ https://www.kaggle.com/datasets/dataanalyst001/world-population-by-country-2024
 ### 6. Colab: 
 [View code on Colab](https://colab.research.google.com/drive/1Hz3mPgmoS0TqvjBHSRdX7LpX_COjkHUW?usp=sharing)
 
+Data were merged using Python and then all data manipulations were processed directly in Tableau: 
+* Data connection
+* Null data management
+* data format adjustment
+* Top N parameter creation
+* Filters application
+* Country regions data cleaning
+* Dashboars formatting 
+
+  
+
+
+
 
 
 
