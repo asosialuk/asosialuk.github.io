@@ -30,6 +30,9 @@
 https://edgar.jrc.ec.europa.eu/report_2024 <br>
 https://www.kaggle.com/datasets/dataanalyst001/world-population-by-country-2024
 
+### 6. Colab: 
+[View code on Colab](https://colab.research.google.com/drive/1Hz3mPgmoS0TqvjBHSRdX7LpX_COjkHUW?usp=sharing)
+
 
 
 
