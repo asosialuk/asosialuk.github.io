@@ -6,7 +6,7 @@
 
 [Project 1: Global CO2 Emmissions. In this project a simple dashboard is built using Tableau.](/sample_page.md)
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
-[![](https://img.shields.io/badge/Google Colab-white?logo=Google Colab)](#)
+[![](https://img.shields.io/badge/GoogleColab-white?logo=GoogleColab)](#)
 [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
 
 <img src="images/global_co2.png?raw=true"/>
