@@ -5,7 +5,7 @@
 ### Global CO2 Emissions: Trends & Insights using Tableau
 
 [Project 1: Global CO2 Emmissions](/sample_page)
-<img src="images/global_co2.pdf?raw=true"/>
+<img src="images/global_co2.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
