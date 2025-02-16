@@ -11,18 +11,27 @@
 
 ### 2. Highlights:
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+* The map effectively shows the distribution of CO2 emissions across the globe.    
+* The scatter plot highlights the relationship between population and CO2 emissions, revealing that some countries have high emissions due to their large populations, while others have high per capita emissions.    
+* The line chart shows the trend of global CO2 emissions over time, indicating a steady increase.
 
-### 3. Support the selection of appropriate statistical tools and techniques
+<img src="images/co2_global.png?raw=true"/>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### 3. Further recommended analysis: 
+* It would also be useful to see how CO2 emissions per capita have changed over time.
+* It would be helpful to have more information on the factors driving CO2 emissions in different countries.
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### 4. Recommendations:
+* Countries should continue to invest in renewable energy sources and energy efficiency measures to reduce CO2 emissions.
+* International cooperation is essential to address the global challenge of climate change.
+* Individuals can also play a role in reducing CO2 emissions by making sustainable choices in their daily lives.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### 5. Data sources:
+https://edgar.jrc.ec.europa.eu/report_2024
+https://www.kaggle.com/datasets/dataanalyst001/world-population-by-country-2024
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+
+
+
