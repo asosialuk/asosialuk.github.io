@@ -1,11 +1,11 @@
-## Portfolio
+## Projects in Data Science, Data Analysis 
 
 ---
 
-### Category Name 1 
+### Global CO2 Emissions: Trends & Insights using Tableau
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1: Global CO2 Emmissions](/sample_page)
+<img src="images/global_co2.pdf?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
