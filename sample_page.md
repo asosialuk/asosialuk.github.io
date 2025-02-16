@@ -27,7 +27,7 @@
 * Individuals can also play a role in reducing CO2 emissions by making sustainable choices in their daily lives.
 
 ### 5. Data sources:
-https://edgar.jrc.ec.europa.eu/report_2024
+https://edgar.jrc.ec.europa.eu/report_2024 /n
 https://www.kaggle.com/datasets/dataanalyst001/world-population-by-country-2024
 
 
