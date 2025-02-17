@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/GoogleColab-white?logo=GoogleColab)](#)
 [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
 
-<img src="images/CO2_new.png?raw=true"/>
+<img src="images/C02_new.png?raw=true"/>
 
 ### Meeting Notes Generator
 ---
