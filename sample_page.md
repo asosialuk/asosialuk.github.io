@@ -15,7 +15,7 @@
 * The scatter plot highlights the relationship between population and CO2 emissions, revealing that some countries have high emissions due to their large populations, while others have high per capita emissions.    
 * The line chart shows the trend of global CO2 emissions over time, indicating a steady increase.
 
-<img src="images/co2_last.png?raw=true"/>
+<img src="images/CO2_new.png?raw=true"/>
 
 ### 3. Further recommended analysis: 
 * It would also be useful to see how CO2 emissions per capita have changed over time.
