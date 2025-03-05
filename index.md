@@ -16,6 +16,7 @@
 [Project 2: Meeting Notes Generator.]
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/HuggingFace-white?logo=HuggingFace)](#)
+[![](https://img.shields.io/badge/Openai-white?logo=Openai)](#)
 
 ---
 [Project 3: Ice-Hockey Analysis]
