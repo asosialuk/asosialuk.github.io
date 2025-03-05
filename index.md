@@ -11,6 +11,7 @@
 
 <img src="images/CO2_dashboard.png?raw=true"/>
 
+
 ### Meeting Notes Generator
 ---
 [Project 2: Meeting Notes Generator.](/meeting_notes.md)
