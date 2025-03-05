@@ -13,7 +13,7 @@ The application allows users to upload files (WAV, MP3, MP4) and automatically g
 
 
 
-<img src="images/CO2_dashboard.png?raw=true"/>
+<img src="images/Meeting_streamlit1.png?raw=true"/>
 
 
 ### 3. Data sources:
