@@ -11,8 +11,13 @@ The application allows users to upload files (WAV, MP3, MP4) and automatically g
 * pydub: for audio format conversion 
 * FPDF: for PDF generation
 <img src="images/Meeting_streamlit1.png?raw=true"/>
+<img src="images/Meeting_streamlit2.png?raw=true"/>
 
 ### 2. Key Observation:
+* Automated Transcription and Diarization: it transcribes audio and idetntifies speakers, providing a clear and organized transcript
+* Structured Meeting notes: it extracts key meeting points, including objectives, discussion details, actions and next meeting dates
+* User-friendly Interface: streamlit provides an interface for uploading audio files and viewing results
+* PDF and text dowload: users can download meeting notes in both text and PDF formats for easy sharing and archiving
 
 ### 3. Data sources:
 * User-uploaded audio files (WAV, MP3, MP4)
