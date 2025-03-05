@@ -13,7 +13,7 @@
 
 ### Meeting Notes Generator
 ---
-[Project 2: Meeting Notes Generator.]
+[Project 2: Meeting Notes Generator.](/meeting_notes.md)
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/HuggingFace-white?logo=HuggingFace)](#)
 [![](https://img.shields.io/badge/Openai-white?logo=Openai)](#)
