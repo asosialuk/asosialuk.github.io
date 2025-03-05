@@ -21,6 +21,7 @@
 [![](https://img.shields.io/badge/Pydub-white?logo=Pydub)](#)
 [![](https://img.shields.io/badge/Pyannote-white?logo=Pyannote)](#)
 
+<img src="images/Meeting_streamlit.png?raw=true"/>
 ---
 [Project 3: Ice-Hockey Analysis]
 
