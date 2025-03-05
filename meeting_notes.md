@@ -10,11 +10,9 @@ The application allows users to upload files (WAV, MP3, MP4) and automatically g
 * Streamlit: for creating an interactive and user-friendly web interface
 * pydub: for audio format conversion 
 * FPDF: for PDF generation
-
-
-
 <img src="images/Meeting_streamlit1.png?raw=true"/>
 
+### 2. Key Observation:
 
 ### 3. Data sources:
 * User-uploaded audio files (WAV, MP3, MP4)
