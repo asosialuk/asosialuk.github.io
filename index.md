@@ -17,6 +17,9 @@
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/HuggingFace-white?logo=HuggingFace)](#)
 [![](https://img.shields.io/badge/Openai-white?logo=Openai)](#)
+[![](https://img.shields.io/badge/Streamlit-white?logo=Streamlit)](#)
+[![](https://img.shields.io/badge/Pydub-white?logo=Pydub)](#)
+[![](https://img.shields.io/badge/Pyannote-white?logo=Pyannote)](#)
 
 ---
 [Project 3: Ice-Hockey Analysis]
